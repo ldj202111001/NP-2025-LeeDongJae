@@ -3,7 +3,6 @@
 이름: 이동재   
 
 목록  
-note1: 기본 입출력 함수
-note2: 기본 자료형
-
-test
+note02: 챕터2 노트정리
+input_output_exercise: 기본 입출력 연습문제
+operator_exercise: 연산자 연습문제
